@@ -2,7 +2,7 @@
 
 # Restful Practical JavaScript
 
-The goal of this project is that we dive more in RESTful API's. We are going to create a frontend web application to get, add, delete, modify, ... data from server or to the server.
+The goal of this project is that we dive deep in RESTful API's. We are going to create a frontend web application to get, add, delete, modify, ... data from server or to the server.
 
 Have a look at our [development strategy](./project-planning/development-strategy.md)
 
