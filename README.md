@@ -1,4 +1,4 @@
-> Head over to [INSTRUCTIONS.md](./INSTRUCTIONS.md)
+
 
 # Restful Practical JavaScript
 
