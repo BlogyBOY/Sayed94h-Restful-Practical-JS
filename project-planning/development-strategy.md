@@ -1,4 +1,4 @@
-# JavaScript Quiz
+# RESTful Practical JavaScript
 
 ...
 
@@ -18,6 +18,10 @@
 
 ## 0.Setup
 
+- Created the repo and importing this [repo](https://github.com/HackYourFutureBelgium/restful-pjs) in
+- Created group issues for this project and assigned collaborators
+- Invited collaborators
+- Turned on GitHub page
 ---
 
 ## 1. Initialize Application
